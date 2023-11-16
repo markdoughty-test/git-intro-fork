@@ -1,5 +1,6 @@
 
-# First Contributions
+# First Contributions - An Introduction to Git
+(Cloned from [https://github.com/firstcontributions/first-contributions](https://github.com/firstcontributions/first-contributions).
 
 ## GitHub Desktop Edition
 
