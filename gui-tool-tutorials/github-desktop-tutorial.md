@@ -54,7 +54,7 @@ Click on `Create branch`
 
 ## Make necessary changes and commit those changes
 
-Now, go to history tab and open `Contributors.md` file in a text editor by right clicking and open in text editor. Scroll to the bottom of the page and add your name to it, then save the file.
+Now, go to history tab and open `Contributors.md` file in a text editor by right clicking and open in text editor. Scroll to the bottom of the page and add a link to your github account to it, then save the file.
 
 Example: If your name is Sue Smith, It should look a bit like this (depending on your Github account name):
 `[SueSmith](https://github.com/suesmith)`
@@ -67,11 +67,10 @@ Replace `<your-name>` with your name.
 
 Click on the button that says `Commit to <your branch>`.
 
-<img src="https://firstcontributions.github.io/assets/gui-tool-tutorials/github-desktop-tutorial/dt1-commit1.png" alt="commit your changes" />
+<img src="../images/commit.png" alt="commit the changes" />
 
 At the bottom, you can see that the commit has been created.
 
-<img src="https://firstcontributions.github.io/assets/gui-tool-tutorials/github-desktop-tutorial/dt1-commit2.png" alt="commit your changes" />
 
 ## Push changes to github
 
