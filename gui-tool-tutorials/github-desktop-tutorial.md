@@ -77,9 +77,9 @@ At the bottom, you can see that the commit has been created.
 Click on File->Options to check you are signed in to Github.com. If not, then go ahead and enter your credentials.
 
 
-Click the `Fetch Origin` button on the top right.
+Click the `Push Origin` button on the top right.
 
-<img src="../images/commit.png" alt="push your changes" />
+<img src="../images/push.png" alt="push your changes" />
 
 ## Submit your changes for review
 
