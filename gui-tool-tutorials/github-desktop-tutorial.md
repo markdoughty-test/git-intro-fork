@@ -74,13 +74,12 @@ At the bottom, you can see that the commit has been created.
 
 ## Push changes to github
 
-Click on File->Options and sign-in to Github.com. Type in your Github username and password.
+Click on File->Options to check you are signed in to Github.com. If not, then go ahead and enter your credentials.
 
-<img src="https://firstcontributions.github.io/assets/gui-tool-tutorials/github-desktop-tutorial/dt1-sign-in.png" alt="log-in to Github" />
 
-Click the `Publish` button on the top right.
+Click the `Fetch Origin` button on the top right.
 
-<img src="https://firstcontributions.github.io/assets/gui-tool-tutorials/github-desktop-tutorial/dt1-publish1.png" alt="push your changes" />
+<img src="../images/commit.png" alt="push your changes" />
 
 ## Submit your changes for review
 
