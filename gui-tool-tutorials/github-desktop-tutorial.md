@@ -40,15 +40,15 @@ Now you have copied the contents of the first-contributions repository in github
 
 ## Create a branch
 
-We need to create a new **'branch'**, which is a copy of the repo contents in your account, so you can make changes without changing the main reposity contents until you are happy with the changes. 
+We need to create a new **'branch'**, which is a copy of the repo contents in your account, so you can make changes without changing the main repo contents until you are happy with the changes. 
 
 Create a branch by clicking on the "Current branch" icon at the top and then click on "New branch":
 
 <img src="../images/newBranch.png" alt="make a branch" />
 
-Name your branch <add-your-name>. For example, "add-james-smith"
+Name your branch. I used 'Dev' - yo can use anything though!
 
-<img src="https://firstcontributions.github.io/assets/gui-tool-tutorials/github-desktop-tutorial/dt1-create-branch-name.png" alt="name your branch" />
+<img src="../images/nameBranch.png" alt="name the branch" />
 
 Click on `Create branch`
 
@@ -56,21 +56,16 @@ Click on `Create branch`
 
 Now, go to history tab and open `Contributors.md` file in a text editor by right clicking and open in text editor. Scroll to the bottom of the page and add your name to it, then save the file.
 
-Example: If your name is James Smith, It should look like this.
+Example: If your name is Sue Smith, It should look a bit like this (depending on your Github account name):
+`[SueSmith](https://github.com/suesmith)`
 
-\[James Smith](https://github.com/jamessmith)
+Now to **commit** those changes:
 
-You can see that there are changes to Contributors.md and they have been added to the Github Desktop.
-
-<img src="https://firstcontributions.github.io/assets/gui-tool-tutorials/github-desktop-tutorial/dt1-status.png" alt="check status" />
-
-Now commit those changes:
-
-Write the message "Add `<your-name>` to Contributors list" in the _summary_ field.
+Write the message "Added `<your-name>` to Contributors list" in the `summary` field.
 
 Replace `<your-name>` with your name.
 
-Click on the button that says `Commit to add-your-name`.
+Click on the button that says `Commit to <your branch>`.
 
 <img src="https://firstcontributions.github.io/assets/gui-tool-tutorials/github-desktop-tutorial/dt1-commit1.png" alt="commit your changes" />
 
